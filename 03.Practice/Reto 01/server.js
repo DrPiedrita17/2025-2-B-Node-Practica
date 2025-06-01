@@ -7,7 +7,8 @@
  * @returns {number}
  */
 function sum(a, b) {
-  // TODO: Escribe tu solución aquí
+  let sum = a + b;
+  return sum;
 }
 
 // Pruebas para sum
@@ -27,7 +28,9 @@ console.log("\n------------------------\n");
  * @returns {string}
  */
 function numberToString(num) {
-  // TODO: Escribe tu solución aquí
+
+  let str = num.toString();
+  return str;
 }
 
 // Pruebas para numberToString
