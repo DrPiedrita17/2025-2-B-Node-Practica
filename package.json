@@ -1,0 +1,24 @@
+{
+  "name": "2025-2-b-node",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene el material del curso de NodeJS, incluyendo prácticas guiadas, ejercicios presenciales y retos para practicar de manera autónoma. Está diseñado para enseñar y reforzar los conceptos fundamentales y avanzados de NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inadaptados/2025-2-B-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inadaptados/2025-2-B-Node/issues"
+  },
+  "homepage": "https://github.com/Inadaptados/2025-2-B-Node#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "inquire": "^0.4.8"
+  }
+}
